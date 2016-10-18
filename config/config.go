@@ -7,7 +7,7 @@ import (
 	"strings"
 
 	"github.com/hashicorp/consul/api"
-	"github.com/kelseyhightower/envconfig"
+	"github.com/jprobinson/envconfig"
 )
 
 // EnvAppName is used as a prefix for environment variable
